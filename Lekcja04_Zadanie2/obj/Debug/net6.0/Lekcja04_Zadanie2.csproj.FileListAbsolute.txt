@@ -1,0 +1,15 @@
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\bin\Debug\net6.0\Lekcja04_Zadanie2.exe
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\bin\Debug\net6.0\Lekcja04_Zadanie2.deps.json
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\bin\Debug\net6.0\Lekcja04_Zadanie2.runtimeconfig.json
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\bin\Debug\net6.0\Lekcja04_Zadanie2.dll
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\bin\Debug\net6.0\Lekcja04_Zadanie2.pdb
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.csproj.AssemblyReference.cache
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.AssemblyInfoInputs.cache
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.AssemblyInfo.cs
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.dll
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\refint\Lekcja04_Zadanie2.dll
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.pdb
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\Lekcja04_Zadanie2.genruntimeconfig.cache
+C:\Users\manx\source\repos\Lekcja04_Zadanie2\Lekcja04_Zadanie2\obj\Debug\net6.0\ref\Lekcja04_Zadanie2.dll
